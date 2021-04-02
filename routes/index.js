@@ -10,7 +10,7 @@ const walletRoutes = require('./wallet');
 
 router.get('/', (req, res) => {
     res.status(200).json({
-        message: "This is home page of funD"
+        message: "This is home page of funD loooh"
     })
 });
 
